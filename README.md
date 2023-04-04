@@ -2,5 +2,5 @@
 Avaliação da primeira unidade do componente curricular "Linguagem de programação I" no curso de ciência da computação-UFPB
 Docente: Danielle Rousy
 Discentes: 
-Herick Carneiro
+Herick Carneiro | 
 Weslley Rhaonny
